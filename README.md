@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="SUA-IMAGEM-BANNER-AQUI" width="100%">
+  <img src="D:\1. DOWNLOADS\Brown Aesthetic Email header.png" width="100%">
 </p>
 
 <h1 align="center">👩‍💻 Olá, eu sou a Luisa</h1>
