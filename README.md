@@ -59,9 +59,6 @@ e resolver problemas reais com análise e programação. Atualmente estudo Pytho
 ---
 
 
-
----
-
 <h2>📫 Contato</h2>
 
 <p>
