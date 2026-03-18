@@ -1,8 +1,7 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="D:\1. DOWNLOADS\Brown Aesthetic Email header.png" width="100%">
+  <img src="https://github.com/user-attachments/assets/58d57d30-d931-49f8-b907-ad543a9c2706" width="100%">
 </p>
-
 <h1 align="center">👩‍💻 Olá, eu sou a Luisa</h1>
 <p align="center"><b>Estudante de Tecnologia | Ciência de Dados</b></p>
 
@@ -72,8 +71,8 @@ e resolver problemas reais com análise e programação. Atualmente estudo Pytho
 <h2>📫 Contato</h2>
 
 <p>
-💼 LinkedIn: SEU-LINK <br>
-📧 Email: SEU-EMAIL
+💼 LinkedIn: https://www.linkedin.com/in/luísaesteves/ <br>
+📧 Email: luisacontas07@gmail.com
 </p>
 
 ---
