@@ -29,7 +29,7 @@ e resolver problemas reais com análise e programação. Atualmente estudo Pytho
 ---
 
 <p align="center">
-  <img src="SUA-IMAGEM-ILUSTRACAO-AQUI" width="200px">
+  <img src="https://github.com/user-attachments/assets/e94bc156-1d64-4c95-8180-2aea4d357517" width="100%">
 </p>
 
 ---
