@@ -37,11 +37,11 @@ e resolver problemas reais com análise e programação. Atualmente estudo Pytho
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=LUISA&show_icons=true&theme=tokyonight">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight">
+  <img src="https://streak-stats.demolab.com?user=LUISA&theme=tokyonight">
 </p>
 
 ---
